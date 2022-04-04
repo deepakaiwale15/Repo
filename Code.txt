@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 A
 B
 C
 D
 E
 F
+=======
+Test
+Test
+
+
+Test
+Test branch
+
+Test
+Test code update from different user
+
+Test
+Test code changed from this user
+>>>>>>> 520215ecdfe1c35e0274de2163b758df8983296d
